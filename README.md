@@ -2,18 +2,6 @@
 
 http://sigs.interserver.net/
 
-Real time suspected malware list as detected by InterServer's InterShield protection system.
-
-DNSRBL available at with lookups to rbl.interserver.net 
-
-Stats
-Total Possible Malware: 182498 
-
-Total confirmed malware detected: 29978 
-
-Total found from hex match: 150647 
-
-Total not malware: 1634 
 
 These are unofficial clamAV virus databases created by InterServer that are for use in the Clamav Virus Scanner.
 Automatic updating DBs
